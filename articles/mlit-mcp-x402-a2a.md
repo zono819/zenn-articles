@@ -1,5 +1,5 @@
 ---
-title: "国交省データがエージェントに売れる時代 ── MLIT MCP × x402 × A2A AgentCard で作るエージェント経済の最小構成"
+title: "国交省データがエージェントに売れる時代──MLIT MCP × x402 × A2A AgentCard で作るエージェント経済の最小構成"
 emoji: "🗾"
 type: "tech"
 topics: ["mlit", "x402", "a2a", "agentcard", "mcp"]
