@@ -285,4 +285,22 @@ A2A × x402 参照実装:
 
 ---
 
+## 参考 Issue・リポジトリ
+
+**AgentCard インデックス問題（壁① 関連）**
+
+@[card](https://github.com/mnemonik-xyz/monorepo/issues/64)
+
+**A2A 公式仕様議論**
+
+@[card](https://github.com/a2aproject/A2A/issues/1694)
+
+**主要クラウドベンダーの実装状況**
+
+@[card](https://github.com/aws/bedrock-agentcore-sdk-python/issues/453)
+
+@[card](https://github.com/microsoft/Agents-for-net/issues/675)
+
+---
+
 *本記事は 2026年5月時点の仕様・実装状況をもとに執筆しました。A2A/AP2/OWS は活発に更新中のため、最新仕様は各公式リポジトリをご確認ください。*
